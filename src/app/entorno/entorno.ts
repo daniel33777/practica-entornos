@@ -4,6 +4,11 @@ import { Component } from '@angular/core';
   selector: 'app-entorno',
   imports: [],
   templateUrl: './entorno.html',
-  styleUrl: './entorno.css',
+  styleUrl: './entorno.css'
 })
-export class Entorno {}
+export class Entorno {
+  titulo = 'Práctica de Despliegues';
+  bienvenida = 'Bienvenido a la aplicación de gestión de entornos.';
+  entorno = 'Entorno de producción';
+  clase = 'prod';
+}
