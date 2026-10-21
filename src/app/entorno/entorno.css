@@ -16,6 +16,6 @@
   border-radius: 10px;
 }
 
-.prod { background-color: #2e7d32; }  /* verde */
-.qa   { background-color: #ef6c00; }  /* naranja */
-.uat  { background-color: #1565c0; }  /* azul */
+.prod { background-color: #2e7d32; } 
+.qa   { background-color: #ef6c00; }  
+.uat  { background-color: #1565c0; }  
